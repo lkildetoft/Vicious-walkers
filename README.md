@@ -8,6 +8,7 @@ A Monte-Carlo simulation of random walkers running around on a three-dimensional
 Requires the numpy (https://numpy.org) and matplotlib (https://matplotlib.org) packages. 
 
 To run:
+
 ´´´
 python3 main.py
 ´´´
