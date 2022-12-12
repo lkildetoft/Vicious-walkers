@@ -9,6 +9,6 @@ Requires the numpy (https://numpy.org) and matplotlib (https://matplotlib.org) p
 
 To run:
 
-´´´
+```
 python3 main.py
-´´´
+```
